@@ -1,0 +1,13 @@
+{
+  "name": "focus-accessibility",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "android": {
+    "gradleAarProjects": [
+      {
+        "name": "expo.modules.focusaccessibility",
+        "aarPath": "android/build/outputs/aar/focus-accessibility-release.aar"
+      }
+    ]
+  }
+}
